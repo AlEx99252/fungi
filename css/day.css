@@ -1,0 +1,12 @@
+img{
+    height: 400px;
+    width: 500px;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    background-color: ivory;
+}
+a{
+    float: right;
+}

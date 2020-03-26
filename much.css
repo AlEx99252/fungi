@@ -1,0 +1,59 @@
+img{
+    height: 500px;
+    width: 570px;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    background-color:blue;
+    font-size: xx-large;
+}
+
+h3{
+    height: 170px;
+    width:1100px;
+    text-align: center;
+    background-color:rgba(255, 68, 0, 0.781);
+    float: right;
+    font-size:x-large;
+}
+H2{
+    height: 200px;
+    width: 150px;
+    background-color:blue;
+    text-align: center;
+    font-size: x-large;
+}
+body{
+    background-color:rgba(255, 255, 240, 0.774);
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+div{
+    background-color:ivory;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    font-size:xx-large;
+    float: right;
+
+}
+p{
+    float: left;
+    width:950px;
+    height:143px;
+    background-color:rgba(255, 68, 0, 0.911);
+    font-size: xx-large;
+    text-align: center;
+    padding-right: 10px;
+}
+marquee{
+    background-color: gold;
+    font-size: x-large;
+}
+
+
+
+
+
+

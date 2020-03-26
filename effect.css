@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.705);
+}
+h2{
+    height: 200px;
+    width: 600px;
+    float: right;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+h4{
+    height:300px;
+    width: 350px;
+    background-color:white;
+    float: left;
+    text-align: center;
+    grid-column: 10px;
+}
+img{
+    height: 350px;
+    width: 600px;
+}
+a{
+    float: right;
+    background-color:tomato;
+}
+body{
+    font-size: x-large;
+}
+p{
+    width: 600px;
+    height: 250px;
+    background-color:white;
+    float: left;
+    text-align: center;
+}
+h5{
+    height: 250px;
+    width: 600px;
+    float: right;
+    background-color:white;
+    text-align: center;
+}
+   

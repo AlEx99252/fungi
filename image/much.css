@@ -1,0 +1,55 @@
+img{
+    height: 500px;
+    width: 1300px;
+    border: 30px;
+}
+h1{
+    text-align: center;
+    background-color: rgba(157, 255, 0, 0.295);
+}
+
+h3{
+    height: 150px;
+    width:1100px;
+    text-align: center;
+    background-color:ivory;
+    float: right;
+}
+H2{
+    height: 200px;
+    width: 150px;
+    background-color:ivory;
+    text-align: center;
+}
+body{
+    background-color:rgba(255, 255, 240, 0.774); 
+
+}
+div{
+    background-color:ivory;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    font-size: xx-large;
+    float: right;
+
+}
+p{
+    float: left;
+    width:950px;
+    height:60px;
+    background-color:ivory;
+    font-size: large;
+    text-align: center;
+    padding-right: 10px;
+}
+a{
+    background-color:ivory;
+    float: left;
+}
+
+
+
+
+
+
